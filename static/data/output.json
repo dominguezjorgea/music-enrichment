@@ -1,0 +1,2693 @@
+[
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5ede3121-872a-497c-9c09-ccac45be6bc2",
+    "timestamp": "2025-03-29T22:42:36.076Z",
+    "durationMs": "7084",
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "releaseDate": "1939-04-20"
+  },
+  {
+    "userId": "3de0d8d3-5422-4fe1-a6c6-4aa5046bab3f",
+    "songId": "c198b688-84fd-42fd-afc1-777364a68eeb",
+    "timestamp": "2025-03-30T00:35:56.076Z",
+    "durationMs": "7707",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "releaseDate": "1967-09-01"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-03-30T02:42:20.076Z",
+    "durationMs": "203217",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-03-30T04:58:46.076Z",
+    "durationMs": "261587",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "882cfe14-8f95-44c8-8ae1-b99ba80d9894",
+    "timestamp": "2025-03-30T06:07:38.076Z",
+    "durationMs": "275124",
+    "title": "So What",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-03-30T07:07:39.076Z",
+    "durationMs": "7591",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "3587cb7e-068d-4edc-8e51-9585991a59ee",
+    "songId": "2b51a930-f565-4e85-aaeb-2a2bae4a7bda",
+    "timestamp": "2025-03-30T08:00:04.077Z",
+    "durationMs": "9748",
+    "title": "Caravan",
+    "artist": "Duke Ellington",
+    "releaseDate": "1937-12-19"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "2b51a930-f565-4e85-aaeb-2a2bae4a7bda",
+    "timestamp": "2025-03-30T08:22:18.076Z",
+    "durationMs": "357865",
+    "title": "Caravan",
+    "artist": "Duke Ellington",
+    "releaseDate": "1937-12-19"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-03-30T10:04:35.076Z",
+    "durationMs": "142829",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-03-30T15:05:59.076Z",
+    "durationMs": "2896",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-03-30T22:45:45.076Z",
+    "durationMs": "151559",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-03-31T00:23:06.076Z",
+    "durationMs": "1622",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "db68df62-26d6-4204-bdc6-41dbfba7a315",
+    "timestamp": "2025-03-31T05:37:39.076Z",
+    "durationMs": "1812",
+    "title": "Maiden Voyage",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1965-05-17"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-03-31T09:18:53.076Z",
+    "durationMs": "139472",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "9333e5d6-4856-4cab-9c46-f45100927e2f",
+    "songId": "2f2b1a33-e8a0-461e-a746-b7ffa4e843c7",
+    "timestamp": "2025-03-31T11:10:38.077Z",
+    "durationMs": "99537",
+    "title": "Fly Me to the Moon",
+    "artist": "Tony Bennett",
+    "releaseDate": "1965-01-05"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "db68df62-26d6-4204-bdc6-41dbfba7a315",
+    "timestamp": "2025-03-31T13:32:19.076Z",
+    "durationMs": "151427",
+    "title": "Maiden Voyage",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1965-05-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1",
+    "timestamp": "2025-03-31T19:11:31.076Z",
+    "durationMs": "312479",
+    "title": "Afro Blue",
+    "artist": "John Coltrane",
+    "releaseDate": "1963-10-22"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-03-31T19:17:25.076Z",
+    "durationMs": "237599",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "7da8c1f5-3dbb-4672-ac8c-f8d03606bc3c",
+    "timestamp": "2025-04-01T00:00:34.076Z",
+    "durationMs": "214964",
+    "title": "All Blues",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "576eb88c-33f9-4692-93ec-712014b66d16",
+    "timestamp": "2025-04-01T02:59:23.076Z",
+    "durationMs": "8537",
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "releaseDate": "1957-08-18"
+  },
+  {
+    "userId": "653c78e7-8b84-4de3-b4da-d08531338e04",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-01T03:16:04.077Z",
+    "durationMs": "2991",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "a82104a2-0a85-405a-8474-1a6489d6ae9e",
+    "timestamp": "2025-04-01T14:26:07.076Z",
+    "durationMs": "3366",
+    "title": "Watermelon Man",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1962-10-24"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-01T14:31:37.076Z",
+    "durationMs": "93783",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "cb11c898-2ec4-4a2c-9ea6-35c0e2dadee6",
+    "timestamp": "2025-04-01T14:42:49.076Z",
+    "durationMs": "259795",
+    "title": "Mercy, Mercy, Mercy",
+    "artist": "Cannonball Adderley Quintet",
+    "releaseDate": "1966-10-31"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-04-01T20:46:32.076Z",
+    "durationMs": "275099",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f",
+    "timestamp": "2025-04-02T00:09:25.076Z",
+    "durationMs": "101807",
+    "title": "Compared to What",
+    "artist": "Les McCann & Eddie Harris",
+    "releaseDate": "1969-05-21"
+  },
+  {
+    "userId": "a8a124d1-4789-4867-a473-7b6eb666a576",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-02T06:12:29.077Z",
+    "durationMs": "227049",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-02T07:18:02.076Z",
+    "durationMs": "239681",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "1b7da275-2155-4716-a4d4-0e81765e9cdd",
+    "timestamp": "2025-04-02T07:56:05.076Z",
+    "durationMs": "261893",
+    "title": "Donna Lee",
+    "artist": "Charlie Parker",
+    "releaseDate": "1947-05-08"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5ede3121-872a-497c-9c09-ccac45be6bc2",
+    "timestamp": "2025-04-02T09:01:09.076Z",
+    "durationMs": "224325",
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "releaseDate": "1939-04-20"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-02T09:03:09.076Z",
+    "durationMs": "112383",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "3ae24a15-0863-4da8-a600-7a3474e40195",
+    "timestamp": "2025-04-02T11:36:38.076Z",
+    "durationMs": "7660",
+    "title": "Footprints",
+    "artist": "Wayne Shorter",
+    "releaseDate": "1966-04-29"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f",
+    "timestamp": "2025-04-02T12:19:57.076Z",
+    "durationMs": "307620",
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "releaseDate": "1977-04-01"
+  },
+  {
+    "userId": "afacb60d-fa39-4d5e-b4f6-d62287c9afe4",
+    "songId": "b8c647ee-1814-4dc8-80af-55f8d02c6c93",
+    "timestamp": "2025-04-02T15:44:36.076Z",
+    "durationMs": "4588",
+    "title": "Body and Soul",
+    "artist": "Coleman Hawkins",
+    "releaseDate": "1939-10-11"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-02T17:22:57.076Z",
+    "durationMs": "250280",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "3733942a-ef70-444f-abd1-cb7f3b992baa",
+    "timestamp": "2025-04-02T18:47:05.076Z",
+    "durationMs": "83327",
+    "title": "Stolen Moments",
+    "artist": "Oliver Nelson",
+    "releaseDate": "1961-03-01"
+  },
+  {
+    "userId": "fa956849-7e88-433f-96c1-36757e3adc1f",
+    "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f",
+    "timestamp": "2025-04-02T23:39:40.077Z",
+    "durationMs": "2812",
+    "title": "Compared to What",
+    "artist": "Les McCann & Eddie Harris",
+    "releaseDate": "1969-05-21"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-03T01:17:54.076Z",
+    "durationMs": "5311",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-03T04:03:48.076Z",
+    "durationMs": "8547",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d",
+    "timestamp": "2025-04-03T08:39:35.076Z",
+    "durationMs": "319993",
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "releaseDate": "1954-09-27"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-03T11:16:09.076Z",
+    "durationMs": "6418",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-03T12:26:42.076Z",
+    "durationMs": "151905",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "1e0f40a6-a1b5-444b-916d-a70935bcd838",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-03T14:27:34.076Z",
+    "durationMs": "310056",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "29aba1ef-ee51-4fd1-9a67-8891f058dd2f",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-03T18:51:12.077Z",
+    "durationMs": "85475",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "d4f1eb43-b483-4caa-8cd2-87f77e768d65",
+    "songId": "7da8c1f5-3dbb-4672-ac8c-f8d03606bc3c",
+    "timestamp": "2025-04-03T19:00:45.077Z",
+    "durationMs": "205847",
+    "title": "All Blues",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "b8c647ee-1814-4dc8-80af-55f8d02c6c93",
+    "timestamp": "2025-04-03T20:55:53.076Z",
+    "durationMs": "261727",
+    "title": "Body and Soul",
+    "artist": "Coleman Hawkins",
+    "releaseDate": "1939-10-11"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "eb83e7d2-7d60-4440-874f-67252305a730",
+    "timestamp": "2025-04-03T20:57:06.076Z",
+    "durationMs": "2060",
+    "title": "Mood Indigo",
+    "artist": "Duke Ellington",
+    "releaseDate": "1930-10-17"
+  },
+  {
+    "userId": "9333e5d6-4856-4cab-9c46-f45100927e2f",
+    "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f",
+    "timestamp": "2025-04-03T22:47:29.077Z",
+    "durationMs": "6425",
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "releaseDate": "1977-04-01"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5b03d7cd-5fbe-4162-aaae-23074140fe58",
+    "timestamp": "2025-04-04T08:07:48.076Z",
+    "durationMs": "1843",
+    "title": "Boplicity",
+    "artist": "Miles Davis Nonet",
+    "releaseDate": "1957-03-02"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d",
+    "timestamp": "2025-04-04T09:27:16.076Z",
+    "durationMs": "85344",
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1944-04-21"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-04T12:30:31.076Z",
+    "durationMs": "145125",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "5c55e352-5688-4c35-a06f-f29e6519a629",
+    "timestamp": "2025-04-04T12:30:56.076Z",
+    "durationMs": "65196",
+    "title": "Freddie Freeloader",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "5ede3121-872a-497c-9c09-ccac45be6bc2",
+    "timestamp": "2025-04-04T13:14:10.076Z",
+    "durationMs": "271517",
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "releaseDate": "1939-04-20"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-04-04T13:24:34.076Z",
+    "durationMs": "7770",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "f7a9443e-b4df-4917-b6ce-74cb499ca47b",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-04T14:04:31.077Z",
+    "durationMs": "110494",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "2dd9df7c-103b-414d-aebc-ea329020e3e2",
+    "songId": "0ca71646-ef58-4ced-a924-8e02981a0d67",
+    "timestamp": "2025-04-05T00:50:45.077Z",
+    "durationMs": "4434",
+    "title": "Chameleon",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1973-10-26"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-05T00:51:40.076Z",
+    "durationMs": "83179",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-04-05T03:44:32.076Z",
+    "durationMs": "9999",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-05T06:54:07.076Z",
+    "durationMs": "292645",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-05T17:34:23.076Z",
+    "durationMs": "94762",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "f081d70f-ddf1-4c27-bb0d-e226b7fa7cb2",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-05T19:04:55.077Z",
+    "durationMs": "147041",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-05T19:16:59.076Z",
+    "durationMs": "190835",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "78fd4387-25c0-4d8a-84b2-4486fdad107b",
+    "timestamp": "2025-04-05T19:57:46.076Z",
+    "durationMs": "75570",
+    "title": "Goodbye Pork Pie Hat",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-05-12"
+  },
+  {
+    "userId": "a8014dcd-d991-44da-b336-964b3be34af8",
+    "songId": "8db8f77c-d19b-4872-8e5d-1aee9f653721",
+    "timestamp": "2025-04-05T20:03:09.076Z",
+    "durationMs": "192292",
+    "title": "A Love Supreme, Pt. 1: Acknowledgement",
+    "artist": "John Coltrane",
+    "releaseDate": "1965-02-10"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "576eb88c-33f9-4692-93ec-712014b66d16",
+    "timestamp": "2025-04-06T01:08:52.076Z",
+    "durationMs": "320767",
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "releaseDate": "1957-08-18"
+  },
+  {
+    "userId": "699c9039-724b-4a4e-808e-c3269dd3b3c7",
+    "songId": "a82104a2-0a85-405a-8474-1a6489d6ae9e",
+    "timestamp": "2025-04-06T07:53:42.076Z",
+    "durationMs": "2177",
+    "title": "Watermelon Man",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1962-10-24"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "0ca71646-ef58-4ced-a924-8e02981a0d67",
+    "timestamp": "2025-04-06T09:39:56.076Z",
+    "durationMs": "354608",
+    "title": "Chameleon",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1973-10-26"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-06T10:00:45.076Z",
+    "durationMs": "4922",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "ad5c6c22-d96d-4dbb-97db-61a7918242c8",
+    "songId": "b8c647ee-1814-4dc8-80af-55f8d02c6c93",
+    "timestamp": "2025-04-06T11:43:39.076Z",
+    "durationMs": "2015",
+    "title": "Body and Soul",
+    "artist": "Coleman Hawkins",
+    "releaseDate": "1939-10-11"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "eaeb0f5a-e070-4778-9d33-25a1a1421a83",
+    "timestamp": "2025-04-06T14:30:13.076Z",
+    "durationMs": "69749",
+    "title": "Ornithology",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-03-28"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-06T15:34:55.076Z",
+    "durationMs": "246297",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "bbd9b9f2-d3f4-479d-8da4-89763a8cc4fa",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-06T16:15:04.077Z",
+    "durationMs": "259731",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "5da47581-c91f-441d-b0a1-3bf4073c8ff3",
+    "songId": "c059de31-9f88-4fee-8251-acf690752e5f",
+    "timestamp": "2025-04-06T18:05:22.076Z",
+    "durationMs": "8827",
+    "title": "Take Five",
+    "artist": "Dave Brubeck Quartet",
+    "releaseDate": "1959-09-29"
+  },
+  {
+    "userId": "8cb5b330-cc94-4472-a427-5de1749011a9",
+    "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1",
+    "timestamp": "2025-04-06T18:21:39.077Z",
+    "durationMs": "5496",
+    "title": "Afro Blue",
+    "artist": "John Coltrane",
+    "releaseDate": "1963-10-22"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-06T19:04:46.076Z",
+    "durationMs": "1112",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-06T20:27:20.076Z",
+    "durationMs": "282388",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "f081d70f-ddf1-4c27-bb0d-e226b7fa7cb2",
+    "songId": "e342e3de-1d9c-4641-a71c-3a68b523f09c",
+    "timestamp": "2025-04-07T00:42:04.077Z",
+    "durationMs": "264921",
+    "title": "Epistrophy",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1948-06-07"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-07T00:52:25.076Z",
+    "durationMs": "101184",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "8cb5b330-cc94-4472-a427-5de1749011a9",
+    "songId": "78fd4387-25c0-4d8a-84b2-4486fdad107b",
+    "timestamp": "2025-04-07T03:07:15.077Z",
+    "durationMs": "1698",
+    "title": "Goodbye Pork Pie Hat",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-05-12"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-07T03:28:15.076Z",
+    "durationMs": "4996",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-07T03:55:22.076Z",
+    "durationMs": "182593",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "e342e3de-1d9c-4641-a71c-3a68b523f09c",
+    "timestamp": "2025-04-07T04:12:48.076Z",
+    "durationMs": "319416",
+    "title": "Epistrophy",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1948-06-07"
+  },
+  {
+    "userId": "bbd9b9f2-d3f4-479d-8da4-89763a8cc4fa",
+    "songId": "78fd4387-25c0-4d8a-84b2-4486fdad107b",
+    "timestamp": "2025-04-07T10:14:05.077Z",
+    "durationMs": "4673",
+    "title": "Goodbye Pork Pie Hat",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-05-12"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "e342e3de-1d9c-4641-a71c-3a68b523f09c",
+    "timestamp": "2025-04-07T16:05:30.076Z",
+    "durationMs": "256028",
+    "title": "Epistrophy",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1948-06-07"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f",
+    "timestamp": "2025-04-07T16:55:47.076Z",
+    "durationMs": "9356",
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "releaseDate": "1977-04-01"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-07T21:49:09.076Z",
+    "durationMs": "9862",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "d71f04a7-76ab-4a56-baf5-fb1523835e29",
+    "timestamp": "2025-04-07T22:23:28.076Z",
+    "durationMs": "100006",
+    "title": "Unforgettable",
+    "artist": "Nat King Cole",
+    "releaseDate": "1951-08-15"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-08T00:07:56.076Z",
+    "durationMs": "153491",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-08T02:57:50.076Z",
+    "durationMs": "342274",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-08T04:11:10.076Z",
+    "durationMs": "251137",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-04-08T05:16:10.076Z",
+    "durationMs": "9911",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "d4f1eb43-b483-4caa-8cd2-87f77e768d65",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-08T08:34:35.077Z",
+    "durationMs": "6010",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "6880cad6-78d3-4120-ae6e-2cff6aab5e56",
+    "songId": "d71f04a7-76ab-4a56-baf5-fb1523835e29",
+    "timestamp": "2025-04-08T09:26:55.076Z",
+    "durationMs": "141645",
+    "title": "Unforgettable",
+    "artist": "Nat King Cole",
+    "releaseDate": "1951-08-15"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "db68df62-26d6-4204-bdc6-41dbfba7a315",
+    "timestamp": "2025-04-08T09:38:43.076Z",
+    "durationMs": "215408",
+    "title": "Maiden Voyage",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1965-05-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-08T15:54:33.076Z",
+    "durationMs": "2875",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-08T19:35:25.076Z",
+    "durationMs": "112523",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-04-08T21:12:11.076Z",
+    "durationMs": "246264",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-04-09T03:39:14.076Z",
+    "durationMs": "9258",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "882cfe14-8f95-44c8-8ae1-b99ba80d9894",
+    "timestamp": "2025-04-09T04:47:08.076Z",
+    "durationMs": "8636",
+    "title": "So What",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-09T06:19:10.076Z",
+    "durationMs": "7757",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d",
+    "timestamp": "2025-04-09T06:52:41.076Z",
+    "durationMs": "1787",
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "releaseDate": "1954-09-27"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-09T09:32:21.076Z",
+    "durationMs": "3178",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-04-09T10:20:45.076Z",
+    "durationMs": "149653",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "e9e86fd3-73a1-4aa0-af82-0208ca4a4739",
+    "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f",
+    "timestamp": "2025-04-09T22:19:29.076Z",
+    "durationMs": "248938",
+    "title": "Compared to What",
+    "artist": "Les McCann & Eddie Harris",
+    "releaseDate": "1969-05-21"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "3ae24a15-0863-4da8-a600-7a3474e40195",
+    "timestamp": "2025-04-09T22:30:38.076Z",
+    "durationMs": "254140",
+    "title": "Footprints",
+    "artist": "Wayne Shorter",
+    "releaseDate": "1966-04-29"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d",
+    "timestamp": "2025-04-10T01:40:46.076Z",
+    "durationMs": "323961",
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1944-04-21"
+  },
+  {
+    "userId": "87eb2a56-fa45-4a3c-845c-68f7deb73c94",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-10T01:58:42.076Z",
+    "durationMs": "5877",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1",
+    "timestamp": "2025-04-10T06:23:31.076Z",
+    "durationMs": "336360",
+    "title": "Afro Blue",
+    "artist": "John Coltrane",
+    "releaseDate": "1963-10-22"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "3ae24a15-0863-4da8-a600-7a3474e40195",
+    "timestamp": "2025-04-10T09:41:00.076Z",
+    "durationMs": "179233",
+    "title": "Footprints",
+    "artist": "Wayne Shorter",
+    "releaseDate": "1966-04-29"
+  },
+  {
+    "userId": "95a513a8-22f3-4d76-a261-4befa7dff13c",
+    "songId": "b8c647ee-1814-4dc8-80af-55f8d02c6c93",
+    "timestamp": "2025-04-10T14:17:57.076Z",
+    "durationMs": "177213",
+    "title": "Body and Soul",
+    "artist": "Coleman Hawkins",
+    "releaseDate": "1939-10-11"
+  },
+  {
+    "userId": "f2e3d316-bb5e-4c06-b678-7cde4eaecf99",
+    "songId": "2f2b1a33-e8a0-461e-a746-b7ffa4e843c7",
+    "timestamp": "2025-04-10T17:14:31.076Z",
+    "durationMs": "6600",
+    "title": "Fly Me to the Moon",
+    "artist": "Tony Bennett",
+    "releaseDate": "1965-01-05"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "cb11c898-2ec4-4a2c-9ea6-35c0e2dadee6",
+    "timestamp": "2025-04-10T18:20:24.076Z",
+    "durationMs": "9978",
+    "title": "Mercy, Mercy, Mercy",
+    "artist": "Cannonball Adderley Quintet",
+    "releaseDate": "1966-10-31"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-10T18:57:37.076Z",
+    "durationMs": "2718",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "2b51a930-f565-4e85-aaeb-2a2bae4a7bda",
+    "timestamp": "2025-04-10T19:22:25.076Z",
+    "durationMs": "338860",
+    "title": "Caravan",
+    "artist": "Duke Ellington",
+    "releaseDate": "1937-12-19"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-10T19:36:33.076Z",
+    "durationMs": "350125",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "72be07d1-c1e6-4653-aba4-37591b401d02",
+    "timestamp": "2025-04-10T20:39:23.076Z",
+    "durationMs": "300705",
+    "title": "Blue in Green",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "3ae24a15-0863-4da8-a600-7a3474e40195",
+    "timestamp": "2025-04-11T04:00:03.076Z",
+    "durationMs": "1010",
+    "title": "Footprints",
+    "artist": "Wayne Shorter",
+    "releaseDate": "1966-04-29"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "ec382153-1c72-40f7-a6d8-b7bebcc9920e",
+    "timestamp": "2025-04-11T10:48:52.076Z",
+    "durationMs": "5070",
+    "title": "Confirmation",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-11-26"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "5b03d7cd-5fbe-4162-aaae-23074140fe58",
+    "timestamp": "2025-04-11T13:36:59.076Z",
+    "durationMs": "4438",
+    "title": "Boplicity",
+    "artist": "Miles Davis Nonet",
+    "releaseDate": "1957-03-02"
+  },
+  {
+    "userId": "32072ad8-3338-4634-8c75-2f46d81b812f",
+    "songId": "c3e155cb-f9db-497b-ba56-07e03cc07e06",
+    "timestamp": "2025-04-11T16:28:44.076Z",
+    "durationMs": "198540",
+    "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+    "artist": "Duke Ellington",
+    "releaseDate": "1932-02-02"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-11T17:20:54.076Z",
+    "durationMs": "1236",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-11T22:30:07.076Z",
+    "durationMs": "109857",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "3ba5f858-5afd-44ae-bea2-4fbd4bd6446d",
+    "songId": "72be07d1-c1e6-4653-aba4-37591b401d02",
+    "timestamp": "2025-04-12T00:47:14.077Z",
+    "durationMs": "2920",
+    "title": "Blue in Green",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "d2b0d4a1-fe36-4372-a4f4-97540afb7a6f",
+    "songId": "c198b688-84fd-42fd-afc1-777364a68eeb",
+    "timestamp": "2025-04-12T03:40:51.077Z",
+    "durationMs": "3055",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "releaseDate": "1967-09-01"
+  },
+  {
+    "userId": "1e0f40a6-a1b5-444b-916d-a70935bcd838",
+    "songId": "ec382153-1c72-40f7-a6d8-b7bebcc9920e",
+    "timestamp": "2025-04-12T07:57:36.076Z",
+    "durationMs": "3526",
+    "title": "Confirmation",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-11-26"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5c7eeb42-2004-40e6-8a41-a58f4a97db9b",
+    "timestamp": "2025-04-12T09:14:56.076Z",
+    "durationMs": "318553",
+    "title": "Better Git It in Your Soul",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-10-12"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5b03d7cd-5fbe-4162-aaae-23074140fe58",
+    "timestamp": "2025-04-12T10:32:58.076Z",
+    "durationMs": "4780",
+    "title": "Boplicity",
+    "artist": "Miles Davis Nonet",
+    "releaseDate": "1957-03-02"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "d71f04a7-76ab-4a56-baf5-fb1523835e29",
+    "timestamp": "2025-04-12T11:38:05.076Z",
+    "durationMs": "7388",
+    "title": "Unforgettable",
+    "artist": "Nat King Cole",
+    "releaseDate": "1951-08-15"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c059de31-9f88-4fee-8251-acf690752e5f",
+    "timestamp": "2025-04-12T15:16:52.076Z",
+    "durationMs": "7963",
+    "title": "Take Five",
+    "artist": "Dave Brubeck Quartet",
+    "releaseDate": "1959-09-29"
+  },
+  {
+    "userId": "384515f4-088c-4fcc-8dff-2be946d3aab8",
+    "songId": "5c7eeb42-2004-40e6-8a41-a58f4a97db9b",
+    "timestamp": "2025-04-12T16:54:49.076Z",
+    "durationMs": "6737",
+    "title": "Better Git It in Your Soul",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-10-12"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "ec382153-1c72-40f7-a6d8-b7bebcc9920e",
+    "timestamp": "2025-04-12T18:10:48.076Z",
+    "durationMs": "249643",
+    "title": "Confirmation",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-11-26"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "eaeb0f5a-e070-4778-9d33-25a1a1421a83",
+    "timestamp": "2025-04-12T18:17:26.076Z",
+    "durationMs": "294105",
+    "title": "Ornithology",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-03-28"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "ec382153-1c72-40f7-a6d8-b7bebcc9920e",
+    "timestamp": "2025-04-12T20:02:22.076Z",
+    "durationMs": "305907",
+    "title": "Confirmation",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-11-26"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "2b51a930-f565-4e85-aaeb-2a2bae4a7bda",
+    "timestamp": "2025-04-12T23:50:20.076Z",
+    "durationMs": "147917",
+    "title": "Caravan",
+    "artist": "Duke Ellington",
+    "releaseDate": "1937-12-19"
+  },
+  {
+    "userId": "fa956849-7e88-433f-96c1-36757e3adc1f",
+    "songId": "2f2b1a33-e8a0-461e-a746-b7ffa4e843c7",
+    "timestamp": "2025-04-13T06:22:36.077Z",
+    "durationMs": "353813",
+    "title": "Fly Me to the Moon",
+    "artist": "Tony Bennett",
+    "releaseDate": "1965-01-05"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d",
+    "timestamp": "2025-04-13T08:01:29.076Z",
+    "durationMs": "121932",
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "releaseDate": "1954-09-27"
+  },
+  {
+    "userId": "e59b8c69-65f5-46b0-bb62-8e5d3c88c5c9",
+    "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1",
+    "timestamp": "2025-04-13T08:59:56.077Z",
+    "durationMs": "346780",
+    "title": "Afro Blue",
+    "artist": "John Coltrane",
+    "releaseDate": "1963-10-22"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "78fd4387-25c0-4d8a-84b2-4486fdad107b",
+    "timestamp": "2025-04-13T09:42:05.076Z",
+    "durationMs": "7887",
+    "title": "Goodbye Pork Pie Hat",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-05-12"
+  },
+  {
+    "userId": "29aba1ef-ee51-4fd1-9a67-8891f058dd2f",
+    "songId": "a82104a2-0a85-405a-8474-1a6489d6ae9e",
+    "timestamp": "2025-04-13T12:57:54.077Z",
+    "durationMs": "7559",
+    "title": "Watermelon Man",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1962-10-24"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "cb11c898-2ec4-4a2c-9ea6-35c0e2dadee6",
+    "timestamp": "2025-04-13T13:30:25.076Z",
+    "durationMs": "342234",
+    "title": "Mercy, Mercy, Mercy",
+    "artist": "Cannonball Adderley Quintet",
+    "releaseDate": "1966-10-31"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "0837099b-1bc1-4be1-884f-5725057ad000",
+    "timestamp": "2025-04-13T17:03:25.076Z",
+    "durationMs": "173566",
+    "title": "In a Sentimental Mood",
+    "artist": "Duke Ellington & John Coltrane",
+    "releaseDate": "1963-09-26"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-04-13T19:12:57.076Z",
+    "durationMs": "127568",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "f081d70f-ddf1-4c27-bb0d-e226b7fa7cb2",
+    "songId": "87a3ffa3-420d-4c31-9160-7b0abfb2912a",
+    "timestamp": "2025-04-13T21:53:15.077Z",
+    "durationMs": "1850",
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "releaseDate": "1970-04-19"
+  },
+  {
+    "userId": "bbd9b9f2-d3f4-479d-8da4-89763a8cc4fa",
+    "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1",
+    "timestamp": "2025-04-13T23:48:38.077Z",
+    "durationMs": "154801",
+    "title": "Afro Blue",
+    "artist": "John Coltrane",
+    "releaseDate": "1963-10-22"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c059de31-9f88-4fee-8251-acf690752e5f",
+    "timestamp": "2025-04-14T01:57:37.076Z",
+    "durationMs": "61037",
+    "title": "Take Five",
+    "artist": "Dave Brubeck Quartet",
+    "releaseDate": "1959-09-29"
+  },
+  {
+    "userId": "3a00fed7-7b76-45d5-9f3e-9d1ded7ac00f",
+    "songId": "882cfe14-8f95-44c8-8ae1-b99ba80d9894",
+    "timestamp": "2025-04-14T03:09:56.076Z",
+    "durationMs": "107010",
+    "title": "So What",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c059de31-9f88-4fee-8251-acf690752e5f",
+    "timestamp": "2025-04-14T05:29:22.076Z",
+    "durationMs": "3209",
+    "title": "Take Five",
+    "artist": "Dave Brubeck Quartet",
+    "releaseDate": "1959-09-29"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "7da8c1f5-3dbb-4672-ac8c-f8d03606bc3c",
+    "timestamp": "2025-04-14T12:26:19.076Z",
+    "durationMs": "4941",
+    "title": "All Blues",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-14T12:32:53.076Z",
+    "durationMs": "358183",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5ede3121-872a-497c-9c09-ccac45be6bc2",
+    "timestamp": "2025-04-14T18:19:46.076Z",
+    "durationMs": "234915",
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "releaseDate": "1939-04-20"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "882cfe14-8f95-44c8-8ae1-b99ba80d9894",
+    "timestamp": "2025-04-14T19:45:39.076Z",
+    "durationMs": "114084",
+    "title": "So What",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d",
+    "timestamp": "2025-04-14T20:29:49.076Z",
+    "durationMs": "3357",
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "releaseDate": "1954-09-27"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "3ae24a15-0863-4da8-a600-7a3474e40195",
+    "timestamp": "2025-04-14T21:49:08.076Z",
+    "durationMs": "5330",
+    "title": "Footprints",
+    "artist": "Wayne Shorter",
+    "releaseDate": "1966-04-29"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-14T22:56:23.076Z",
+    "durationMs": "273699",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "cb11c898-2ec4-4a2c-9ea6-35c0e2dadee6",
+    "timestamp": "2025-04-15T00:23:23.076Z",
+    "durationMs": "116088",
+    "title": "Mercy, Mercy, Mercy",
+    "artist": "Cannonball Adderley Quintet",
+    "releaseDate": "1966-10-31"
+  },
+  {
+    "userId": "87eb2a56-fa45-4a3c-845c-68f7deb73c94",
+    "songId": "2b51a930-f565-4e85-aaeb-2a2bae4a7bda",
+    "timestamp": "2025-04-15T01:26:32.076Z",
+    "durationMs": "2109",
+    "title": "Caravan",
+    "artist": "Duke Ellington",
+    "releaseDate": "1937-12-19"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "5c55e352-5688-4c35-a06f-f29e6519a629",
+    "timestamp": "2025-04-15T03:40:10.076Z",
+    "durationMs": "6674",
+    "title": "Freddie Freeloader",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "d4f1eb43-b483-4caa-8cd2-87f77e768d65",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-15T04:47:39.077Z",
+    "durationMs": "326321",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "e59b8c69-65f5-46b0-bb62-8e5d3c88c5c9",
+    "songId": "2b51a930-f565-4e85-aaeb-2a2bae4a7bda",
+    "timestamp": "2025-04-15T06:07:49.077Z",
+    "durationMs": "105284",
+    "title": "Caravan",
+    "artist": "Duke Ellington",
+    "releaseDate": "1937-12-19"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "87a3ffa3-420d-4c31-9160-7b0abfb2912a",
+    "timestamp": "2025-04-15T07:09:53.076Z",
+    "durationMs": "299303",
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "releaseDate": "1970-04-19"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d",
+    "timestamp": "2025-04-15T07:22:33.076Z",
+    "durationMs": "8131",
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "releaseDate": "1954-09-27"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "605f3310-78c7-4d77-b2f7-1344511e42c8",
+    "timestamp": "2025-04-15T07:39:04.076Z",
+    "durationMs": "205741",
+    "title": "Lullaby of Birdland",
+    "artist": "Sarah Vaughan",
+    "releaseDate": "1954-09-08"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c059de31-9f88-4fee-8251-acf690752e5f",
+    "timestamp": "2025-04-15T09:18:49.076Z",
+    "durationMs": "6702",
+    "title": "Take Five",
+    "artist": "Dave Brubeck Quartet",
+    "releaseDate": "1959-09-29"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-15T13:05:01.076Z",
+    "durationMs": "165789",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "3ba5f858-5afd-44ae-bea2-4fbd4bd6446d",
+    "songId": "87a3ffa3-420d-4c31-9160-7b0abfb2912a",
+    "timestamp": "2025-04-15T15:18:56.077Z",
+    "durationMs": "167443",
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "releaseDate": "1970-04-19"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-04-15T16:29:19.076Z",
+    "durationMs": "1357",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f",
+    "timestamp": "2025-04-16T01:50:40.076Z",
+    "durationMs": "79244",
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "releaseDate": "1977-04-01"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-16T05:09:26.075Z",
+    "durationMs": "126287",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "576eb88c-33f9-4692-93ec-712014b66d16",
+    "timestamp": "2025-04-16T11:51:06.076Z",
+    "durationMs": "290608",
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "releaseDate": "1957-08-18"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "e063e5b0-4879-43cd-ae79-5357188a4fa8",
+    "timestamp": "2025-04-16T15:06:03.076Z",
+    "durationMs": "340532",
+    "title": "Autumn Leaves",
+    "artist": "Cannonball Adderley",
+    "releaseDate": "1958-01-09"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-16T15:44:57.076Z",
+    "durationMs": "1462",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "5f1a45e2-4fe2-4791-9fee-677da746145e",
+    "songId": "576eb88c-33f9-4692-93ec-712014b66d16",
+    "timestamp": "2025-04-16T17:30:44.077Z",
+    "durationMs": "138958",
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "releaseDate": "1957-08-18"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-04-16T19:35:32.076Z",
+    "durationMs": "137135",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "8cb5b330-cc94-4472-a427-5de1749011a9",
+    "songId": "fd8e9348-a248-4c68-a97f-b73b195628b9",
+    "timestamp": "2025-04-17T00:19:39.077Z",
+    "durationMs": "7037",
+    "title": "My Funny Valentine",
+    "artist": "Chet Baker",
+    "releaseDate": "1954-07-24"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c3e155cb-f9db-497b-ba56-07e03cc07e06",
+    "timestamp": "2025-04-17T04:55:38.076Z",
+    "durationMs": "9505",
+    "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+    "artist": "Duke Ellington",
+    "releaseDate": "1932-02-02"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "576eb88c-33f9-4692-93ec-712014b66d16",
+    "timestamp": "2025-04-17T05:17:31.076Z",
+    "durationMs": "197844",
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "releaseDate": "1957-08-18"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "5ede3121-872a-497c-9c09-ccac45be6bc2",
+    "timestamp": "2025-04-17T06:01:47.076Z",
+    "durationMs": "2917",
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "releaseDate": "1939-04-20"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "0837099b-1bc1-4be1-884f-5725057ad000",
+    "timestamp": "2025-04-17T07:19:27.076Z",
+    "durationMs": "243257",
+    "title": "In a Sentimental Mood",
+    "artist": "Duke Ellington & John Coltrane",
+    "releaseDate": "1963-09-26"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-17T09:06:04.076Z",
+    "durationMs": "221546",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-17T10:43:58.076Z",
+    "durationMs": "163909",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f",
+    "timestamp": "2025-04-17T12:33:19.076Z",
+    "durationMs": "6050",
+    "title": "Compared to What",
+    "artist": "Les McCann & Eddie Harris",
+    "releaseDate": "1969-05-21"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "5b03d7cd-5fbe-4162-aaae-23074140fe58",
+    "timestamp": "2025-04-17T14:13:37.076Z",
+    "durationMs": "132980",
+    "title": "Boplicity",
+    "artist": "Miles Davis Nonet",
+    "releaseDate": "1957-03-02"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d",
+    "timestamp": "2025-04-17T14:51:55.076Z",
+    "durationMs": "9935",
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1944-04-21"
+  },
+  {
+    "userId": "5c5cb04e-c309-4229-8458-36e33ec1346e",
+    "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1",
+    "timestamp": "2025-04-17T18:40:47.076Z",
+    "durationMs": "6153",
+    "title": "Afro Blue",
+    "artist": "John Coltrane",
+    "releaseDate": "1963-10-22"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "910b3d28-e4dc-4d79-a35a-86da803136b2",
+    "timestamp": "2025-04-17T20:12:11.076Z",
+    "durationMs": "195649",
+    "title": "Naima",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-01-14"
+  },
+  {
+    "userId": "8528101e-1972-434e-875d-e79ff3f9259c",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-17T20:31:13.076Z",
+    "durationMs": "214457",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-17T20:51:18.076Z",
+    "durationMs": "327931",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "29aba1ef-ee51-4fd1-9a67-8891f058dd2f",
+    "songId": "0ca71646-ef58-4ced-a924-8e02981a0d67",
+    "timestamp": "2025-04-18T01:50:05.077Z",
+    "durationMs": "1623",
+    "title": "Chameleon",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1973-10-26"
+  },
+  {
+    "userId": "fa956849-7e88-433f-96c1-36757e3adc1f",
+    "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f",
+    "timestamp": "2025-04-18T02:50:27.077Z",
+    "durationMs": "7729",
+    "title": "Compared to What",
+    "artist": "Les McCann & Eddie Harris",
+    "releaseDate": "1969-05-21"
+  },
+  {
+    "userId": "95a513a8-22f3-4d76-a261-4befa7dff13c",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-18T04:20:55.076Z",
+    "durationMs": "262123",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "eaeb0f5a-e070-4778-9d33-25a1a1421a83",
+    "timestamp": "2025-04-18T06:53:28.076Z",
+    "durationMs": "145948",
+    "title": "Ornithology",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-03-28"
+  },
+  {
+    "userId": "a8a124d1-4789-4867-a473-7b6eb666a576",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-18T07:46:17.077Z",
+    "durationMs": "243050",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "f081d70f-ddf1-4c27-bb0d-e226b7fa7cb2",
+    "songId": "e342e3de-1d9c-4641-a71c-3a68b523f09c",
+    "timestamp": "2025-04-18T11:47:40.077Z",
+    "durationMs": "242138",
+    "title": "Epistrophy",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1948-06-07"
+  },
+  {
+    "userId": "8c176f17-b169-4f79-9f48-2e0ae1450686",
+    "songId": "eb83e7d2-7d60-4440-874f-67252305a730",
+    "timestamp": "2025-04-18T14:00:37.077Z",
+    "durationMs": "167618",
+    "title": "Mood Indigo",
+    "artist": "Duke Ellington",
+    "releaseDate": "1930-10-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "0837099b-1bc1-4be1-884f-5725057ad000",
+    "timestamp": "2025-04-18T15:50:06.076Z",
+    "durationMs": "258855",
+    "title": "In a Sentimental Mood",
+    "artist": "Duke Ellington & John Coltrane",
+    "releaseDate": "1963-09-26"
+  },
+  {
+    "userId": "d90ee1ca-2d51-4926-9253-31fe97bca286",
+    "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d",
+    "timestamp": "2025-04-19T03:34:33.076Z",
+    "durationMs": "6072",
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1944-04-21"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "cb11c898-2ec4-4a2c-9ea6-35c0e2dadee6",
+    "timestamp": "2025-04-19T06:00:17.076Z",
+    "durationMs": "139781",
+    "title": "Mercy, Mercy, Mercy",
+    "artist": "Cannonball Adderley Quintet",
+    "releaseDate": "1966-10-31"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "e063e5b0-4879-43cd-ae79-5357188a4fa8",
+    "timestamp": "2025-04-19T06:11:55.076Z",
+    "durationMs": "4621",
+    "title": "Autumn Leaves",
+    "artist": "Cannonball Adderley",
+    "releaseDate": "1958-01-09"
+  },
+  {
+    "userId": "d2b0d4a1-fe36-4372-a4f4-97540afb7a6f",
+    "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d",
+    "timestamp": "2025-04-19T08:16:31.077Z",
+    "durationMs": "212371",
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "releaseDate": "1954-09-27"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "1b7da275-2155-4716-a4d4-0e81765e9cdd",
+    "timestamp": "2025-04-19T11:15:13.076Z",
+    "durationMs": "135312",
+    "title": "Donna Lee",
+    "artist": "Charlie Parker",
+    "releaseDate": "1947-05-08"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "5b03d7cd-5fbe-4162-aaae-23074140fe58",
+    "timestamp": "2025-04-19T13:54:09.076Z",
+    "durationMs": "348912",
+    "title": "Boplicity",
+    "artist": "Miles Davis Nonet",
+    "releaseDate": "1957-03-02"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-19T15:37:52.076Z",
+    "durationMs": "6285",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "e342e3de-1d9c-4641-a71c-3a68b523f09c",
+    "timestamp": "2025-04-19T16:52:49.076Z",
+    "durationMs": "195160",
+    "title": "Epistrophy",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1948-06-07"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "7da8c1f5-3dbb-4672-ac8c-f8d03606bc3c",
+    "timestamp": "2025-04-19T17:08:55.076Z",
+    "durationMs": "9705",
+    "title": "All Blues",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "78fd4387-25c0-4d8a-84b2-4486fdad107b",
+    "timestamp": "2025-04-19T19:49:02.076Z",
+    "durationMs": "2800",
+    "title": "Goodbye Pork Pie Hat",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-05-12"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5c7eeb42-2004-40e6-8a41-a58f4a97db9b",
+    "timestamp": "2025-04-19T22:22:21.076Z",
+    "durationMs": "272935",
+    "title": "Better Git It in Your Soul",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-10-12"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "eaeb0f5a-e070-4778-9d33-25a1a1421a83",
+    "timestamp": "2025-04-19T22:24:17.076Z",
+    "durationMs": "284142",
+    "title": "Ornithology",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-03-28"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-20T01:34:32.076Z",
+    "durationMs": "1203",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "39ef168c-3bc0-4829-be16-59345c098a2d",
+    "songId": "5c7eeb42-2004-40e6-8a41-a58f4a97db9b",
+    "timestamp": "2025-04-20T03:05:26.076Z",
+    "durationMs": "285096",
+    "title": "Better Git It in Your Soul",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-10-12"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-20T03:24:44.076Z",
+    "durationMs": "159438",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "0ca71646-ef58-4ced-a924-8e02981a0d67",
+    "timestamp": "2025-04-20T03:33:14.076Z",
+    "durationMs": "2118",
+    "title": "Chameleon",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1973-10-26"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f",
+    "timestamp": "2025-04-20T05:19:19.076Z",
+    "durationMs": "83242",
+    "title": "Night in Tunisia",
+    "artist": "Dizzy Gillespie",
+    "releaseDate": "1942-11-24"
+  },
+  {
+    "userId": "70c969fb-f9cf-440f-9f3a-836d83ca8ced",
+    "songId": "576eb88c-33f9-4692-93ec-712014b66d16",
+    "timestamp": "2025-04-20T08:41:55.076Z",
+    "durationMs": "7203",
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "releaseDate": "1957-08-18"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "8326d65b-d8a4-4cb5-9413-8f962faec640",
+    "timestamp": "2025-04-20T09:48:56.076Z",
+    "durationMs": "1522",
+    "title": "The Girl from Ipanema",
+    "artist": "Stan Getz & Astrud Gilberto",
+    "releaseDate": "1964-03-19"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c059de31-9f88-4fee-8251-acf690752e5f",
+    "timestamp": "2025-04-20T11:06:41.076Z",
+    "durationMs": "9017",
+    "title": "Take Five",
+    "artist": "Dave Brubeck Quartet",
+    "releaseDate": "1959-09-29"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c198b688-84fd-42fd-afc1-777364a68eeb",
+    "timestamp": "2025-04-20T11:22:04.076Z",
+    "durationMs": "4555",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "releaseDate": "1967-09-01"
+  },
+  {
+    "userId": "95a513a8-22f3-4d76-a261-4befa7dff13c",
+    "songId": "fd8e9348-a248-4c68-a97f-b73b195628b9",
+    "timestamp": "2025-04-20T20:32:57.076Z",
+    "durationMs": "255104",
+    "title": "My Funny Valentine",
+    "artist": "Chet Baker",
+    "releaseDate": "1954-07-24"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "a82104a2-0a85-405a-8474-1a6489d6ae9e",
+    "timestamp": "2025-04-20T22:01:44.076Z",
+    "durationMs": "180555",
+    "title": "Watermelon Man",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1962-10-24"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-21T05:03:58.076Z",
+    "durationMs": "5618",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "3ae24a15-0863-4da8-a600-7a3474e40195",
+    "timestamp": "2025-04-21T08:09:37.076Z",
+    "durationMs": "6675",
+    "title": "Footprints",
+    "artist": "Wayne Shorter",
+    "releaseDate": "1966-04-29"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-04-21T08:17:13.076Z",
+    "durationMs": "9151",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "5da47581-c91f-441d-b0a1-3bf4073c8ff3",
+    "songId": "5c55e352-5688-4c35-a06f-f29e6519a629",
+    "timestamp": "2025-04-21T10:08:08.076Z",
+    "durationMs": "2394",
+    "title": "Freddie Freeloader",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "12fafb81-a1fe-44b2-8b28-6fe04baf36ee",
+    "songId": "8db8f77c-d19b-4872-8e5d-1aee9f653721",
+    "timestamp": "2025-04-21T14:19:29.076Z",
+    "durationMs": "87830",
+    "title": "A Love Supreme, Pt. 1: Acknowledgement",
+    "artist": "John Coltrane",
+    "releaseDate": "1965-02-10"
+  },
+  {
+    "userId": "87eb2a56-fa45-4a3c-845c-68f7deb73c94",
+    "songId": "db68df62-26d6-4204-bdc6-41dbfba7a315",
+    "timestamp": "2025-04-21T14:35:57.077Z",
+    "durationMs": "7174",
+    "title": "Maiden Voyage",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1965-05-17"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "72be07d1-c1e6-4653-aba4-37591b401d02",
+    "timestamp": "2025-04-21T15:32:07.076Z",
+    "durationMs": "8127",
+    "title": "Blue in Green",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "860d0406-484b-4475-b080-c283bb67cc8a",
+    "songId": "fd8e9348-a248-4c68-a97f-b73b195628b9",
+    "timestamp": "2025-04-21T15:46:58.076Z",
+    "durationMs": "156018",
+    "title": "My Funny Valentine",
+    "artist": "Chet Baker",
+    "releaseDate": "1954-07-24"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "72be07d1-c1e6-4653-aba4-37591b401d02",
+    "timestamp": "2025-04-21T16:17:50.076Z",
+    "durationMs": "254157",
+    "title": "Blue in Green",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1",
+    "timestamp": "2025-04-22T02:12:08.076Z",
+    "durationMs": "2884",
+    "title": "Afro Blue",
+    "artist": "John Coltrane",
+    "releaseDate": "1963-10-22"
+  },
+  {
+    "userId": "bbd9b9f2-d3f4-479d-8da4-89763a8cc4fa",
+    "songId": "2f2b1a33-e8a0-461e-a746-b7ffa4e843c7",
+    "timestamp": "2025-04-22T02:29:08.077Z",
+    "durationMs": "122272",
+    "title": "Fly Me to the Moon",
+    "artist": "Tony Bennett",
+    "releaseDate": "1965-01-05"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-22T02:40:15.076Z",
+    "durationMs": "9955",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5c7eeb42-2004-40e6-8a41-a58f4a97db9b",
+    "timestamp": "2025-04-22T03:31:55.076Z",
+    "durationMs": "180561",
+    "title": "Better Git It in Your Soul",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-10-12"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c3e155cb-f9db-497b-ba56-07e03cc07e06",
+    "timestamp": "2025-04-22T06:42:16.076Z",
+    "durationMs": "5201",
+    "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+    "artist": "Duke Ellington",
+    "releaseDate": "1932-02-02"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "72be07d1-c1e6-4653-aba4-37591b401d02",
+    "timestamp": "2025-04-22T10:16:52.076Z",
+    "durationMs": "300679",
+    "title": "Blue in Green",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-22T13:18:10.076Z",
+    "durationMs": "147120",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-22T13:55:25.076Z",
+    "durationMs": "62522",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d",
+    "timestamp": "2025-04-22T14:45:30.076Z",
+    "durationMs": "65093",
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1944-04-21"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "5c55e352-5688-4c35-a06f-f29e6519a629",
+    "timestamp": "2025-04-22T17:42:23.076Z",
+    "durationMs": "228519",
+    "title": "Freddie Freeloader",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "e342e3de-1d9c-4641-a71c-3a68b523f09c",
+    "timestamp": "2025-04-22T21:42:09.076Z",
+    "durationMs": "88215",
+    "title": "Epistrophy",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1948-06-07"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "eb83e7d2-7d60-4440-874f-67252305a730",
+    "timestamp": "2025-04-22T22:34:31.076Z",
+    "durationMs": "177637",
+    "title": "Mood Indigo",
+    "artist": "Duke Ellington",
+    "releaseDate": "1930-10-17"
+  },
+  {
+    "userId": "4c36e40d-05d8-4369-a914-206238b90877",
+    "songId": "1b7da275-2155-4716-a4d4-0e81765e9cdd",
+    "timestamp": "2025-04-23T02:05:37.076Z",
+    "durationMs": "4550",
+    "title": "Donna Lee",
+    "artist": "Charlie Parker",
+    "releaseDate": "1947-05-08"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "d71f04a7-76ab-4a56-baf5-fb1523835e29",
+    "timestamp": "2025-04-23T03:48:24.076Z",
+    "durationMs": "299963",
+    "title": "Unforgettable",
+    "artist": "Nat King Cole",
+    "releaseDate": "1951-08-15"
+  },
+  {
+    "userId": "d4f1eb43-b483-4caa-8cd2-87f77e768d65",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-23T03:51:38.077Z",
+    "durationMs": "112535",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "78fd4387-25c0-4d8a-84b2-4486fdad107b",
+    "timestamp": "2025-04-23T06:04:40.076Z",
+    "durationMs": "127058",
+    "title": "Goodbye Pork Pie Hat",
+    "artist": "Charles Mingus",
+    "releaseDate": "1959-05-12"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "5ede3121-872a-497c-9c09-ccac45be6bc2",
+    "timestamp": "2025-04-23T08:39:59.076Z",
+    "durationMs": "1710",
+    "title": "Strange Fruit",
+    "artist": "Billie Holiday",
+    "releaseDate": "1939-04-20"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-23T13:02:34.076Z",
+    "durationMs": "288892",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb",
+    "timestamp": "2025-04-23T14:24:08.076Z",
+    "durationMs": "1003",
+    "title": "Straight, No Chaser",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1951-07-23"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "0ca71646-ef58-4ced-a924-8e02981a0d67",
+    "timestamp": "2025-04-23T15:16:51.076Z",
+    "durationMs": "4583",
+    "title": "Chameleon",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1973-10-26"
+  },
+  {
+    "userId": "d90ee1ca-2d51-4926-9253-31fe97bca286",
+    "songId": "605f3310-78c7-4d77-b2f7-1344511e42c8",
+    "timestamp": "2025-04-23T19:54:35.076Z",
+    "durationMs": "3445",
+    "title": "Lullaby of Birdland",
+    "artist": "Sarah Vaughan",
+    "releaseDate": "1954-09-08"
+  },
+  {
+    "userId": "384515f4-088c-4fcc-8dff-2be946d3aab8",
+    "songId": "8326d65b-d8a4-4cb5-9413-8f962faec640",
+    "timestamp": "2025-04-23T22:40:06.076Z",
+    "durationMs": "194388",
+    "title": "The Girl from Ipanema",
+    "artist": "Stan Getz & Astrud Gilberto",
+    "releaseDate": "1964-03-19"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "eb83e7d2-7d60-4440-874f-67252305a730",
+    "timestamp": "2025-04-23T22:49:33.076Z",
+    "durationMs": "329225",
+    "title": "Mood Indigo",
+    "artist": "Duke Ellington",
+    "releaseDate": "1930-10-17"
+  },
+  {
+    "userId": "3587cb7e-068d-4edc-8e51-9585991a59ee",
+    "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762",
+    "timestamp": "2025-04-23T23:19:32.077Z",
+    "durationMs": "2471",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "releaseDate": "1961-03-07"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "605f3310-78c7-4d77-b2f7-1344511e42c8",
+    "timestamp": "2025-04-24T00:08:15.076Z",
+    "durationMs": "1740",
+    "title": "Lullaby of Birdland",
+    "artist": "Sarah Vaughan",
+    "releaseDate": "1954-09-08"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f",
+    "timestamp": "2025-04-24T02:09:01.076Z",
+    "durationMs": "5895",
+    "title": "Compared to What",
+    "artist": "Les McCann & Eddie Harris",
+    "releaseDate": "1969-05-21"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-04-24T07:39:07.076Z",
+    "durationMs": "138360",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "3733942a-ef70-444f-abd1-cb7f3b992baa",
+    "timestamp": "2025-04-24T11:32:21.076Z",
+    "durationMs": "206304",
+    "title": "Stolen Moments",
+    "artist": "Oliver Nelson",
+    "releaseDate": "1961-03-01"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "c3e155cb-f9db-497b-ba56-07e03cc07e06",
+    "timestamp": "2025-04-24T11:42:55.076Z",
+    "durationMs": "118435",
+    "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+    "artist": "Duke Ellington",
+    "releaseDate": "1932-02-02"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "605f3310-78c7-4d77-b2f7-1344511e42c8",
+    "timestamp": "2025-04-24T19:08:53.076Z",
+    "durationMs": "84036",
+    "title": "Lullaby of Birdland",
+    "artist": "Sarah Vaughan",
+    "releaseDate": "1954-09-08"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "db68df62-26d6-4204-bdc6-41dbfba7a315",
+    "timestamp": "2025-04-24T19:58:33.076Z",
+    "durationMs": "231612",
+    "title": "Maiden Voyage",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1965-05-17"
+  },
+  {
+    "userId": "70c969fb-f9cf-440f-9f3a-836d83ca8ced",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-24T23:18:32.076Z",
+    "durationMs": "170077",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "e2bce0b3-6d27-4569-b310-f29b658c7c80",
+    "songId": "fd8e9348-a248-4c68-a97f-b73b195628b9",
+    "timestamp": "2025-04-25T01:37:34.076Z",
+    "durationMs": "61176",
+    "title": "My Funny Valentine",
+    "artist": "Chet Baker",
+    "releaseDate": "1954-07-24"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3",
+    "timestamp": "2025-04-25T03:09:57.076Z",
+    "durationMs": "197912",
+    "title": "Waltz for Debby",
+    "artist": "Bill Evans Trio",
+    "releaseDate": "1962-01-19"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4",
+    "timestamp": "2025-04-25T05:06:37.076Z",
+    "durationMs": "1958",
+    "title": "Moanin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "releaseDate": "1958-10-30"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "3ae24a15-0863-4da8-a600-7a3474e40195",
+    "timestamp": "2025-04-25T05:06:59.076Z",
+    "durationMs": "2928",
+    "title": "Footprints",
+    "artist": "Wayne Shorter",
+    "releaseDate": "1966-04-29"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "eaeb0f5a-e070-4778-9d33-25a1a1421a83",
+    "timestamp": "2025-04-25T06:20:40.076Z",
+    "durationMs": "311039",
+    "title": "Ornithology",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-03-28"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "882cfe14-8f95-44c8-8ae1-b99ba80d9894",
+    "timestamp": "2025-04-25T06:54:37.076Z",
+    "durationMs": "3739",
+    "title": "So What",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f",
+    "timestamp": "2025-04-25T07:48:54.076Z",
+    "durationMs": "248078",
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "releaseDate": "1977-04-01"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f",
+    "timestamp": "2025-04-25T13:07:12.076Z",
+    "durationMs": "266607",
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "releaseDate": "1977-04-01"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "fd8e9348-a248-4c68-a97f-b73b195628b9",
+    "timestamp": "2025-04-25T13:39:15.076Z",
+    "durationMs": "6337",
+    "title": "My Funny Valentine",
+    "artist": "Chet Baker",
+    "releaseDate": "1954-07-24"
+  },
+  {
+    "userId": "87eb2a56-fa45-4a3c-845c-68f7deb73c94",
+    "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d",
+    "timestamp": "2025-04-25T15:38:14.077Z",
+    "durationMs": "73723",
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "releaseDate": "1954-09-27"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "7da8c1f5-3dbb-4672-ac8c-f8d03606bc3c",
+    "timestamp": "2025-04-25T15:45:34.076Z",
+    "durationMs": "9052",
+    "title": "All Blues",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "b8c647ee-1814-4dc8-80af-55f8d02c6c93",
+    "timestamp": "2025-04-25T20:14:25.076Z",
+    "durationMs": "358817",
+    "title": "Body and Soul",
+    "artist": "Coleman Hawkins",
+    "releaseDate": "1939-10-11"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "605f3310-78c7-4d77-b2f7-1344511e42c8",
+    "timestamp": "2025-04-25T22:03:53.076Z",
+    "durationMs": "93197",
+    "title": "Lullaby of Birdland",
+    "artist": "Sarah Vaughan",
+    "releaseDate": "1954-09-08"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "605f3310-78c7-4d77-b2f7-1344511e42c8",
+    "timestamp": "2025-04-25T22:21:03.076Z",
+    "durationMs": "2219",
+    "title": "Lullaby of Birdland",
+    "artist": "Sarah Vaughan",
+    "releaseDate": "1954-09-08"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "7da8c1f5-3dbb-4672-ac8c-f8d03606bc3c",
+    "timestamp": "2025-04-25T23:45:17.076Z",
+    "durationMs": "6624",
+    "title": "All Blues",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574",
+    "timestamp": "2025-04-25T23:50:33.076Z",
+    "durationMs": "342944",
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "releaseDate": "1937-07-06"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "c198b688-84fd-42fd-afc1-777364a68eeb",
+    "timestamp": "2025-04-26T04:51:47.076Z",
+    "durationMs": "9195",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "releaseDate": "1967-09-01"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "5c55e352-5688-4c35-a06f-f29e6519a629",
+    "timestamp": "2025-04-26T09:12:49.076Z",
+    "durationMs": "194895",
+    "title": "Freddie Freeloader",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "5f1a45e2-4fe2-4791-9fee-677da746145e",
+    "songId": "eb83e7d2-7d60-4440-874f-67252305a730",
+    "timestamp": "2025-04-26T09:16:20.077Z",
+    "durationMs": "340578",
+    "title": "Mood Indigo",
+    "artist": "Duke Ellington",
+    "releaseDate": "1930-10-17"
+  },
+  {
+    "userId": "29aba1ef-ee51-4fd1-9a67-8891f058dd2f",
+    "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f",
+    "timestamp": "2025-04-26T11:03:28.077Z",
+    "durationMs": "8336",
+    "title": "Birdland",
+    "artist": "Weather Report",
+    "releaseDate": "1977-04-01"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-04-26T15:20:39.076Z",
+    "durationMs": "7403",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9",
+    "timestamp": "2025-04-26T17:38:47.076Z",
+    "durationMs": "291532",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "releaseDate": "1960-02-01"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "72be07d1-c1e6-4653-aba4-37591b401d02",
+    "timestamp": "2025-04-26T19:27:01.076Z",
+    "durationMs": "303567",
+    "title": "Blue in Green",
+    "artist": "Miles Davis",
+    "releaseDate": "1959-08-17"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "1b7da275-2155-4716-a4d4-0e81765e9cdd",
+    "timestamp": "2025-04-26T22:50:49.076Z",
+    "durationMs": "139434",
+    "title": "Donna Lee",
+    "artist": "Charlie Parker",
+    "releaseDate": "1947-05-08"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-04-26T23:23:41.076Z",
+    "durationMs": "282779",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d",
+    "timestamp": "2025-04-27T09:40:54.076Z",
+    "durationMs": "97355",
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1944-04-21"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b",
+    "timestamp": "2025-04-27T11:25:26.076Z",
+    "durationMs": "354996",
+    "title": "Spain",
+    "artist": "Chick Corea",
+    "releaseDate": "1972-02-09"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f",
+    "timestamp": "2025-04-27T13:28:49.076Z",
+    "durationMs": "5499",
+    "title": "Compared to What",
+    "artist": "Les McCann & Eddie Harris",
+    "releaseDate": "1969-05-21"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-04-27T18:40:56.076Z",
+    "durationMs": "108270",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "ae0715d0-6ed4-4fbf-8e50-5810f6dcdc7f",
+    "songId": "1b7da275-2155-4716-a4d4-0e81765e9cdd",
+    "timestamp": "2025-04-27T19:44:52.076Z",
+    "durationMs": "185988",
+    "title": "Donna Lee",
+    "artist": "Charlie Parker",
+    "releaseDate": "1947-05-08"
+  },
+  {
+    "userId": "724e10de-23b3-4b79-a3ba-70c8787fa3fe",
+    "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536",
+    "timestamp": "2025-04-27T21:37:44.076Z",
+    "durationMs": "189226",
+    "title": "Take the 'A' Train",
+    "artist": "Duke Ellington",
+    "releaseDate": "1941-02-15"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "87a3ffa3-420d-4c31-9160-7b0abfb2912a",
+    "timestamp": "2025-04-28T00:05:25.076Z",
+    "durationMs": "118716",
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "releaseDate": "1970-04-19"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "3733942a-ef70-444f-abd1-cb7f3b992baa",
+    "timestamp": "2025-04-28T01:51:07.076Z",
+    "durationMs": "7192",
+    "title": "Stolen Moments",
+    "artist": "Oliver Nelson",
+    "releaseDate": "1961-03-01"
+  },
+  {
+    "userId": "1e0f40a6-a1b5-444b-916d-a70935bcd838",
+    "songId": "d71f04a7-76ab-4a56-baf5-fb1523835e29",
+    "timestamp": "2025-04-28T02:02:57.076Z",
+    "durationMs": "252038",
+    "title": "Unforgettable",
+    "artist": "Nat King Cole",
+    "releaseDate": "1951-08-15"
+  },
+  {
+    "userId": "d6602186-1459-4b11-b3a1-d7063838910f",
+    "songId": "576eb88c-33f9-4692-93ec-712014b66d16",
+    "timestamp": "2025-04-28T03:41:12.076Z",
+    "durationMs": "97915",
+    "title": "Summertime",
+    "artist": "Ella Fitzgerald & Louis Armstrong",
+    "releaseDate": "1957-08-18"
+  },
+  {
+    "userId": "f7a9443e-b4df-4917-b6ce-74cb499ca47b",
+    "songId": "87a3ffa3-420d-4c31-9160-7b0abfb2912a",
+    "timestamp": "2025-04-28T05:23:25.077Z",
+    "durationMs": "326719",
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "releaseDate": "1970-04-19"
+  },
+  {
+    "userId": "2dd9df7c-103b-414d-aebc-ea329020e3e2",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-04-28T09:26:56.077Z",
+    "durationMs": "6692",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d",
+    "timestamp": "2025-04-28T10:19:48.076Z",
+    "durationMs": "128923",
+    "title": "Round Midnight",
+    "artist": "Thelonious Monk",
+    "releaseDate": "1944-04-21"
+  },
+  {
+    "userId": "5b9c3859-24fe-4c9a-98d2-c86dfc5bf0c9",
+    "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece",
+    "timestamp": "2025-04-28T10:28:54.076Z",
+    "durationMs": "290449",
+    "title": "Cantaloupe Island",
+    "artist": "Herbie Hancock",
+    "releaseDate": "1964-06-17"
+  },
+  {
+    "userId": "475bca3f-5a94-4ffb-852d-9d348c9b77a1",
+    "songId": "eaeb0f5a-e070-4778-9d33-25a1a1421a83",
+    "timestamp": "2025-04-28T12:35:38.076Z",
+    "durationMs": "132839",
+    "title": "Ornithology",
+    "artist": "Charlie Parker",
+    "releaseDate": "1946-03-28"
+  }
+]
