@@ -1,11 +1,6 @@
 # 🎵 Music Enrichment – Analytics CLI & Ingestion Script
 
-**Submitted by:** Jorge Dominguez  
-**Position:** Sr. / Staff Solutions Engineer  
-**Client:** Turnstile (via Hireworks)  
-**Location:** Colombia
-
-This project implements an analytics CLI and an ingestion script for music stream data enrichment. It was developed as part of a technical test and includes:
+This project implements an analytics CLI and an ingestion script for music stream data enrichment:
 
 - A standalone ingestion script that enriches the dataset.
 - A server to serve test endpoints and JSON output.
